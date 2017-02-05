@@ -10,3 +10,21 @@ h2 {
 	font-size:40px;
 	font-family: "Open Sans", "Arial", sans-serif;
 }
+
+blockquote {
+	background-color: #D9E5E3;
+}
+
+aside {
+	background-color: #3C1D3D;
+	color: #F2FFFC;
+}
+
+footer {
+	background-color: #000000;
+	color: #F2FFFC;
+}
+
+nav a {
+	color: #F2FFFC;
+}
