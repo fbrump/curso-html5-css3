@@ -1,6 +1,7 @@
 body {
 	font-family: "Crimson Text", "Times New Roman", serif;
 	background-color: #F2FFFC;
+	font-size: 120%;
 }
 
 h1, h2 {
@@ -38,4 +39,5 @@ main a {
 aside a {
 	color: inherit;
 	font-family: 'Open Sans Condensed', sans-serif;
+	text-decoration: none;
 }
