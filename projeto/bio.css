@@ -27,9 +27,13 @@ footer {
 
 nav a {
 	color: #F2FFFC;
-	font-family: 'Open Sans Condensed';
 }
 
 main a {
 	color: #851944;
+}
+
+aside a {
+	color: inherit;
+	font-family: 'Open Sans Condensed', sans-serif;
 }
