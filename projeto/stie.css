@@ -1,0 +1,19 @@
+body {
+	font-family: TimesNewRoman, "Times New Roman", Times, Baskerville, Georgia, serif;
+	background-color: #F2FFFC;
+}
+
+h1, h2 {
+	font-family: 'Open Sans Condensed';
+}
+
+h1 {
+	text-align: center;
+	color: #FFFFFF;
+	background-color: #851944;
+}
+
+p {
+	font-family: 'Crimson Text';
+	text-align: justify;
+}
