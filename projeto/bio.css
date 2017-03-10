@@ -1,10 +1,14 @@
+blockquote, aside, footer {
+    padding: 20px;
+}
+
 main h1 {
 	font-size: 60px;
 	background-color: rgb(120, 38, 60);
 	color: #FAFFFA;
 	text-align: center;
 	font-family: "Open Sans", "Arial", sans-serif;
-	padding: 20px;
+	padding: 25px;
 }
 
 h2 {
