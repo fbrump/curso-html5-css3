@@ -14,13 +14,22 @@ h1 {
 	background-color: #851944;
 }
 
+h2 {
+    font-size: 30px
+}
+
 p {
 	text-align: justify;
+	margin: 20px 0;
 }
 
 aside {
 	background-color: #3C1D3D;
 	color: #F2FFFC;
+}
+
+aside div{
+	padding: 30px 0;
 }
 
 body > footer {
@@ -51,8 +60,18 @@ main > section {
 
 blockquote {
     border: 10px solid #C2CCCA;
+    margin: 20px 40px;
 }
 
 main h1 {
     border-bottom: 10px solid black;
+    font-size: 60px;
+}
+
+strong {
+    font-weight: bold;
+}
+
+em {
+    font-style: italic;
 }
