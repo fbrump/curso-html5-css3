@@ -21,6 +21,11 @@ h2 {
 	margin: 0px;
 }
 
+p {
+	text-align: justify;
+	margin: 20px 0;
+}
+
 blockquote {
 	background-color: #D9E5E3;
 	padding: 16px;
