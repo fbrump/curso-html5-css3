@@ -19,4 +19,5 @@ blockquote {
 	border: 10px solid #C2CCCA;
 	width: 250px;
 	margin: 0px;
+	box-sizing: border-box;
 }
