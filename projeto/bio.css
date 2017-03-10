@@ -14,5 +14,8 @@ h2 {
 
 blockquote {
 	background-color: #D9E5E3;
-	padding: 16px
+	padding: 16px;
+	border: 10px solid #C2CCCA;
+	width: 250px;
+	margin: 0px;
 }
